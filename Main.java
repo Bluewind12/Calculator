@@ -21,7 +21,6 @@ public class Main {
         return alpha * beta;
     }
 
-    //Š„‚èZ
     int Division(int alpha, int beta) {
         System.out.println(alpha + " / " + beta + " = " + (alpha / beta));
         return alpha / beta;
